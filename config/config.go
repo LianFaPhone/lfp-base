@@ -1,7 +1,7 @@
 package config
 
 import (
-	"BastionPay/bas-api/utils"
+	"LianFaPhone/lfp-api/utils"
 	"encoding/json"
 	l4g "github.com/alecthomas/log4go"
 	"io/ioutil"
